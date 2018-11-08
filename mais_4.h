@@ -10,6 +10,7 @@ public:
     virtual int get_cor();
     virtual void imprime_carta();
     void dar_cartas();
+    void escolhe_cor();
 }
 
 #endif
